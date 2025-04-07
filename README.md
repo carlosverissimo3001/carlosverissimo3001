@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carlos, and I am currently taking a master's degree in computer engineering and informatics at FEUP, after completing a bachelor's degree in the same field in June 2023.
+My name is Carlos, and I am currently enrolled in a master's degree in computer engineering and informatics at FEUP, after completing a bachelor's degree in the same field in June 2023.
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=carlosverissimo3001&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Nuno-Jesus&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats) -->
